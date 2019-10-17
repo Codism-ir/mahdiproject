@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: dimgray;
+}
+ul.nav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+}
+li.nav-item a {
+    padding: 10px;
+    margin: 0px 10px;
+    text-decoration: none;
+    color: white ;
+}
